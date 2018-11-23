@@ -1,5 +1,5 @@
 # PrepareDataForProstate
-This is a project for preprocess the prostate Data
+This is a project for preprocessing the prostate Data
 
 # 数据结构：
 代码中的standard_seq数据结构如下：
